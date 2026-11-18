@@ -133,4 +133,4 @@ markup과 markdown 모두 효과가 있습니다.
 내가 가진 이미지도 표시할 수 있습니다.  
 같은 저장소에 있다면 상대경로로 표시할 수 있습니다.
 
-![짱구](./dummy/zzanggu.gif)
+![짱구](./dummy/ZZanggu.gif)
